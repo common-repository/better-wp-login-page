@@ -1,0 +1,1 @@
+(()=>{"use strict";document.addEventListener("DOMContentLoaded",(function(){var e=document.getElementById("login"),t=document.getElementById("language-switcher");t&&e.appendChild(t);var n=.5*e.offsetHeight;e.style.top="calc(50vh - "+n+"px)"}))})();
